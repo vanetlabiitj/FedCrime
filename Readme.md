@@ -11,24 +11,13 @@ Federated Learning-based Crime Prediction is a project aimed at predicting crime
 
 ## Installation
 To get started, clone the repository and install the necessary dependencies as follows:
-# Federated Learning Framework
 flwr==1.0.0
-
-# Deep Learning Framework
 torch==1.10.0
 torchvision==0.11.1
-
-# Data Manipulation and Analysis
 numpy==1.21.2
 pandas==1.3.3
-
-# Machine Learning
 scikit-learn==0.24.2
-
-# Data Visualization
 matplotlib==3.4.3
-
-# Utilities
 tqdm==4.62.3
 
 ## Directory structure
