@@ -37,7 +37,6 @@ federated-crime-prediction/
 ├── baseline/                 # Saved models
 ├── main/                    # Source code
 │   ├── main.py           # Federated server
-│   ├── data_preprocessing.py  # Data preprocessing scripts
 ├── utils                    # Helping functions
 ├── README.md               # Project README
 
